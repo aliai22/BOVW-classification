@@ -1,2 +1,2 @@
 # Image Classification Using Bag of Visual Words
-![alt text](image_url)
+![alt text](Untitled Diagram.drawio.png)
