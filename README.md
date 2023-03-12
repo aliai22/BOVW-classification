@@ -202,3 +202,25 @@ True Positive Rate of  " sunflowers " is:  0.7976878612716763
 False Positive Rate of  " tulips " is:  0.0035650623885918
 True Positive Rate of  " tulips " is:  0.8959537572254336
 ```
+
+
+
+## Visual Results
+
+
+### SVM Classifier
+
+#### Objects Dataset
+![index](https://user-images.githubusercontent.com/127010479/224532250-362fa244-b950-4eea-9a2a-e631b2edb5e2.png)
+
+#### Flowers Dataset
+![index1](https://user-images.githubusercontent.com/127010479/224532285-fddb160e-7676-45d6-aeaf-34d4a4dd6a46.png)
+
+
+### Random Forest Classifier
+
+#### Objects Dataset
+![index2](https://user-images.githubusercontent.com/127010479/224532331-251817b7-ce22-4deb-a218-6739c113f544.png)
+
+#### Flowers Dataset
+![index3](https://user-images.githubusercontent.com/127010479/224532355-1d54cb21-3d06-42e0-a441-3af136c7b786.png)
