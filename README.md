@@ -2,7 +2,7 @@
 
 
 ## Abstract
-This project implements the *Bag of Visual Words* (BOVW) technique to retrieve information (feature descriptors) from the image and then train a classifier (SVM & Random Forest for this project) on image histograms to predict the class of a given data sample. The same technique was applied on two different datasets, *objects dataset* and *flowers dataset*. The object dataset was already splitted into training and testing parts, however, the other one was not. Hence, it was splitted into *80-20 train-test* portions before proceeding forward. Moreover, all images were resized to a single dimension *(250,250)*.
+This project implements the *Bag of Visual Words* (BOVW) technique to retrieve information (feature descriptors) from the image and then train a classifier (SVM & Random Forest for this project) on image histograms to predict the class of a given data sample. The same technique was applied on two different datasets, *objects dataset* and *flowers dataset*. The object dataset was already split into training and testing parts, however, the other one was not. Hence, it was split into *80-20 train-test* portions before proceeding forward. Moreover, all images were resized to a single dimension *(250,250)*.
 
 The code relies on:
 
